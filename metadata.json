@@ -1,0 +1,6 @@
+{
+  "name": "OmniCorp",
+  "description": "Autonomous Trillion-Dollar AI Enterprise Control Center and 12-Department Swarm Orchestrator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
